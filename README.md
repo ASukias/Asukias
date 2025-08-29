@@ -1,8 +1,12 @@
-<h1>Hi, I'm Ara <br/><a href="https://github.com/Asukias">Programmer</a>, <a href="https://www.linkedin.com/in/ara-sukiasyan-737619175/">Software Engineer</a></h1>
+<h1>Hi, I'm Ara!<br/><a href="https://github.com/Asukias">Programmer</a>, <a href="https://www.linkedin.com/in/ara-sukiasyan-737619175/">Software Engineer</a></h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]
+<b>Capstone: Semantic Book Recommender </b>
+  - [Semantic Book Recommender: An NLP-Driven Capstone Project](https://github.com/ASukias/capstone.git)
+
+<b>Data Structures and Algo Practice</b>
+  - [Parcel Delivery System / Nearest neighbor](https://github.com/ASukias/Nearest_Neighbor.git)
+
 
 
 <h2>📄 Certifications </h2>
@@ -20,18 +24,3 @@
 [twitter]: https://x.com/AraSukiasyann
 [instagram]: https://www.instagram.com/arachives6/
 [linkedin]: https://www.linkedin.com/in/ara-sukiasyan-737619175/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
